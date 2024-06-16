@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -28,3 +29,35 @@ a:hover {
 a:visited {
     color: #6A00CC;
 }
+=======
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1, h2, h3, h4 {
+    background-color: #0044CC;
+    color:azure;
+    border: 1px;
+    padding: 10px;
+    border: 1px solid #D6A800;
+}
+
+a {
+    color: #0044CC;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #D6A800
+
+}
+
+a:visited {
+    color: #6A00CC;
+}
+>>>>>>> a31fe70ea56ac4b3456305577f04fb1a5cb6be3b
